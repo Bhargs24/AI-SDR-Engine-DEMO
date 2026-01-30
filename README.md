@@ -47,9 +47,7 @@ Built as a demonstration of AI automation capabilities for enterprise sales work
 ## Contact
 
 For implementation inquiries: 
-Gmail: bhargavrag16@gmail.com
 LinkedIn: https://www.linkedin.com/in/bhargav24/
-Phone: +91 9980697226
 
 
 ---
