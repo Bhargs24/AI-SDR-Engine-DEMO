@@ -4,7 +4,7 @@ AI-powered outbound automation system. Turns ICP definitions into personalized m
 
 ## Demo Video
 
-> 📹 [Watch 3-minute demo](YOUR_LOOM_LINK_HERE)
+> 📹 [Watch 3-minute demo]((https://drive.google.com/file/d/10W6tbTBM-0rCoF8ApF4msHBmMJYH3rJN/view?usp=sharing))
 
 ## What It Does
 
